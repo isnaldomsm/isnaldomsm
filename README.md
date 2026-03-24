@@ -8,7 +8,8 @@ Building scalable backend systems, microservices, financial integrations,
 banking operations, and API-driven platforms — from architecture to delivery.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/isnaldo-matheus-souza-75593bb1)
-[![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu@email.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5546999238896)
+[![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isnaldomsms@gmail.com)
 
 </div>
 
@@ -77,20 +78,3 @@ SOLID & Clean Code               Automated Testing
 | 🚀 Performance | Query optimization, caching, async processing |
 
 ---
-
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isnaldomsm&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isnaldomsm&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
-
-</div>
-
----
-
-<div align="center">
-
-*Open to discussing architecture, backend challenges, and engineering leadership.*
-
-</div>
